@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Asus\Desktop\University\WEB2\WebDevMPU\webLab2\ve"
+VIRTUAL_ENV="C:\Users\Asus\Desktop\University\WEB2\WebDevMPU\webLab1\ve"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

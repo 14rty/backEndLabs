@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Asus\Desktop\University\WEB2\WebDevMPU\webLab2\ve
+set VIRTUAL_ENV=C:\Users\Asus\Desktop\University\WEB2\WebDevMPU\webLab1\ve
 
 if not defined PROMPT set PROMPT=$P$G
 
